@@ -11,7 +11,7 @@ Ensure you have the following dependencies installed:
 - **Selenium**: WebDriver for automating browser interactions.
 - **Chrome WebDriver**: For interacting with Google Chrome.
 - **python-dotenv**: To load environment variables securely.
-- - **pyautogui**: To dont get catched by website while login.
+- **pyautogui**: To dont get catched by website while login.
 
 ### Install dependencies:
 
